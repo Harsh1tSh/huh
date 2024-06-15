@@ -1,0 +1,28 @@
+h1{
+    color: aqua;
+    text-decoration: dotted;
+    background: gray;
+}
+
+body{
+    background-color: beige;
+}
+
+.box{
+    height: 100px;
+    width: 100px;
+    border: 1 px solid black;
+    margin: 5px;
+    background-color: azure;
+    text-align: center;
+}
+
+.dark{
+    background-color: black;
+    color: white;
+}
+
+.white{
+    background-color: white;
+    color: black;
+}
